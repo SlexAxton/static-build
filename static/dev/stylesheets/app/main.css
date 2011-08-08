@@ -1,0 +1,18 @@
+/* line 1, ../../sass/app/main.sass */
+body {
+  color: #333333;
+}
+
+/* line 4, ../../sass/app/main.sass */
+html {
+  color: #222222;
+}
+
+/* line 8, ../../sass/app/main.sass */
+a {
+  text-decoration: none;
+}
+/* line 4, ../../../../../../.rvm/gems/ruby-1.9.2-p290/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/typography/links/_hover-link.scss */
+a:hover {
+  text-decoration: underline;
+}
